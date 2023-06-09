@@ -7,3 +7,8 @@ This pre-exploratory analysis answers 3 questions:
 - What are the countries with a strong potential of customers for our services?
 - For each of these countries, what will be the evolution of this customer potential?
 - In which countries should the company operate in priority?
+
+
+World Bank data are available at:
+
+https://datacatalog.worldbank.org/dataset/education-statistics
